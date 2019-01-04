@@ -1,0 +1,4 @@
+mvn spring-boot:run
+OR
+mvn clean package && java -jar target/gs-producing-soap-web-service-0.1.0.jar
+
